@@ -1,2 +1,2 @@
-# TestGit
+# testgit
 Testing git
